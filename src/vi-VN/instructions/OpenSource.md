@@ -1,26 +1,25 @@
 ---
-title: Opensource Agreement
+title: Thỏa Thuận Mã Nguồn Mở
 icon: gavel
 index: true
 order: 3
 pageInfo: false
 comment: false
 ---
-## "PvZ2 Gardenless" Website Open Source Agreement
+## Thỏa Thuận Mã Nguồn Mở Website "PvZ2 Gardenless"
 
    Copyright [2024] [Gaozih/Gzh0821/LMYY and contributors]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+   Website này được cấp phép theo Apache License, Version 2.0 ("Giấy phép");
+   bạn không được sử dụng file này trừ khi tuân thủ Giấy phép.
+   Bạn có thể lấy bản sao của Giấy phép tại
 
    [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+   Trừ khi luật pháp yêu cầu hoặc được thỏa thuận bằng văn bản, phần mềm
+   được phân phối theo Giấy phép này được cung cấp trên cơ sở "NGUYÊN TRẠNG",
+   KHÔNG CÓ BẢO ĐẢM HOẶC ĐIỀU KIỆN DƯỚI BẤT KỲ HÌNH THỨC NÀO, dù rõ ràng hay ngụ ý.
+   Xem Giấy phép để biết các quyền và giới hạn cụ thể theo Giấy phép.
 
 ## Apache License 2.0
 

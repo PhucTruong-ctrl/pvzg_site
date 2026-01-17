@@ -5,11 +5,11 @@ icon: info
 pageInfo: false
 comment: false
 ---
-Các thỏa thuận và tuyên bố liên quan đến việc sử dụng, chơi PvZ2 Gardendless như sau:
+Các thỏa thuận và tuyên bố về việc sử dụng, chơi PvZ2 Gardendless nằm ở đây nha:
 
-- [Thỏa thuận Người dùng và Tuyên bố Miễn trừ Trách nhiệm của "PvZ2 Gardendless"](Agreement.md)
+- [Thỏa thuận Người dùng và Miễn trừ Trách nhiệm của "PvZ2 Gardendless"](Agreement.md)
 
-Giấy phép mã nguồn mở của website này như sau:
+Giấy phép mã nguồn mở của website này:
 
 - [Giấy phép mã nguồn mở "PvZ2 Gardendless"](OpenSource.md)
 

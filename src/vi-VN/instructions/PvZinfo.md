@@ -1,5 +1,5 @@
 ---
-title: Original Version
+title: Phiên bản Gốc
 icon: circle-info
 index: true
 order: 5
@@ -7,12 +7,12 @@ pageInfo: false
 comment: false
 ---
 > [!important]
-> This website, Game and related content are not endorsed by or affiliated with EA.
+> Website, Game và các nội dung liên quan này không được EA xác nhận hay liên kết.
 
-## Plants vs. Zombies Original Version Information
+## Thông tin Phiên bản Gốc Plants vs. Zombies
 
-Plants vs. Zombies 2 and related series games are developed and published by Electronic Arts Inc. and its subsidiary PopCap Games. All related copyrights and intellectual property rights belong to Electronic Arts and PopCap Games.
+Plants vs. Zombies 2 và các game liên quan trong series được phát triển và phát hành bởi Electronic Arts Inc. và công ty con PopCap Games. Tất cả bản quyền và quyền sở hữu trí tuệ liên quan thuộc về Electronic Arts và PopCap Games.
 
-Please visit the official websites for more information about Plants vs. Zombies 2 and to download the original game:
+Ghé thăm website chính thức để biết thêm thông tin về Plants vs. Zombies 2 và tải game gốc nha:
 
-Plants vs. Zombies series website: [EA-PvZ](https://www.ea.com/ea-studios/popcap/plants-vs-zombies)
+Website series Plants vs. Zombies: [EA-PvZ](https://www.ea.com/ea-studios/popcap/plants-vs-zombies)
